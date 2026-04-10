@@ -2,6 +2,10 @@
 
 ## [0.0.4] (April 10, 2026)
 
+**Added:**
+
+- Initial project files
+
 **Updated:**
 
 - .gitignore
